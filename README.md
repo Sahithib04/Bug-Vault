@@ -1,4 +1,4 @@
-# Bug Tracking System
+# Bug Vault
 ## Description 🗒️
 The Bug Tracking System project is a comprehensive software application developed in Java that enables efficient tracking and management of bugs in software development. It leverages object-oriented programming principles to create a robust and scalable bug tracking solution. By utilizing the features and technologies mentioned earlier, it offers a wide range of capabilities for bug monitoring, assignment, and reporting.
 
