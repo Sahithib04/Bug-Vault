@@ -28,7 +28,6 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Host chat rooms for direct communication with developers.
 
 
-![Tester View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Tester.gif)
   ###### Tester View & Authentication pages
 
 ### Developer 🧑‍💻
