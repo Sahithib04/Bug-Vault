@@ -37,7 +37,6 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Participate in chat rooms by entering the required IP address and port number for direct communication with testers.
   - Search for relevant information and access useful links related to bug fixing.
 
-![Developer View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Developer.gif)
   ###### Developer View
 
 
@@ -46,14 +45,13 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Calculate performance metrics for testers and developers based on parameters like the number of issued and solved bugs, difficulty, and bug level.
   - Generate reports on bug status, performance metrics, and other relevant data.
 
-![Project Manager View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Project%20Manager.gif)
+
   ###### Project Manager View 
 
 ### Admin 🦸
   - View, add, update, and delete user accounts.
   - Have elevated privileges and complete control over user management in the system.
 
-![Admin View](https://github.com/AntonAshraf/BugTrackingSystem/blob/main/src/main/resources/Videos/Admin.gif)
   ###### Admin View
 
 ##  Conclusion 🔚
